@@ -173,7 +173,7 @@ Welcome to Go digital transforming professional resume writing...
     "image": "https://www.getsetresumes.com/storage/settings/May2022/ZBInTYu5XnNjrZyzloqY.png",
     "@id": "info@getsetresumes.com",
     "url": "https://www.getsetresumes.com/",
-    "telephone": "+919953776253",
+    "telephone": "+918200038066",
     "priceRange": "2199",
     "address": {
       "@type": "PostalAddress",
@@ -372,7 +372,7 @@ Welcome to Go digital transforming professional resume writing...
                               </div>
                               <div class="media-body">
                                   <p class="talk-to-our">TALK TO OUR CONSULTANTS</p>
-                                  <h5 class="number"><a  onclick="return gtag_report_conversion('tel:9953776253');" href="tel:8200038066">+91-8200038066</a></h5>
+                                  <h5 class="number"><a  onclick="return gtag_report_conversion('tel:8200038066');" href="tel:8200038066">+91-8200038066</a></h5>
                               </div>
                           </div>
                       </div>
